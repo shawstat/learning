@@ -1,0 +1,11 @@
+Package: bao
+Type: Package
+Title: This is a useless package.
+Version: 1.1.1
+Author: Shaw Liu
+Maintainer: Shaw Liu <shaw_stat@sjtu.edu.cn>
+Description: More about what it does (maybe more than one line)
+    Use four spaces when indenting paragraphs within the Description.
+License: GNU
+Encoding: UTF-8
+LazyData: true
